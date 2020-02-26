@@ -1,2 +1,4 @@
 # hello-world
-My first repository in GitHub / Meu primeiro repositório no GitHub
+
+Hi, Amauri here.
+I'm learning to use Git and the GitHub platform. It's been really cool.
